@@ -1,0 +1,191 @@
+10/23/2021 01:34:20 PM INFO:Server Online
+10/23/2021 01:34:20 PM INFO:Server listening for possible connections
+10/23/2021 01:34:26 PM INFO:Server connection established for {addr}
+10/23/2021 01:34:26 PM INFO:Request connection code from {addr}
+10/23/2021 01:34:58 PM INFO:Connection code received from {addr}
+10/23/2021 01:34:58 PM INFO:Verifying Connection code received from {addr}
+10/23/2021 01:34:58 PM INFO:Connection code from {addr} verified
+10/23/2021 01:34:58 PM INFO:Randoom Secret Question Generated for {addr}
+10/23/2021 01:34:58 PM INFO:Secret Question Sent to {addr}
+10/23/2021 01:35:14 PM INFO:Secret Question Answer received from {addr}
+10/23/2021 01:35:14 PM INFO:Validating Secret Question Answer from {addr}
+10/23/2021 01:35:14 PM INFO:{agent} Successfully Verified
+10/23/2021 01:35:14 PM INFO:Server Offline
+10/25/2021 05:25:45 PM INFO:Server Online
+10/25/2021 05:25:45 PM INFO:Server listening for possible connections
+10/25/2021 05:25:53 PM INFO:Server connection established for {addr}
+10/25/2021 05:25:53 PM INFO:Request connection code from {addr}
+10/25/2021 05:26:17 PM INFO:Connection code received from {addr}
+10/25/2021 05:26:17 PM INFO:Verifying Connection code received from {addr}
+10/25/2021 05:26:17 PM INFO:Connection code from {addr} verified
+10/25/2021 05:26:17 PM INFO:Randoom Secret Question Generated for {addr}
+10/25/2021 05:26:17 PM INFO:Secret Question Sent to {addr}
+10/25/2021 05:27:02 PM INFO:Secret Question Answer received from {addr}
+10/25/2021 05:27:02 PM INFO:Validating Secret Question Answer from {addr}
+10/25/2021 05:30:35 PM INFO:Server Online
+10/25/2021 05:30:35 PM INFO:Server listening for possible connections
+10/25/2021 05:30:39 PM INFO:Server connection established for {addr}
+10/25/2021 05:30:39 PM INFO:Request connection code from {addr}
+10/25/2021 05:30:54 PM INFO:Connection code received from {addr}
+10/25/2021 05:30:54 PM INFO:Verifying Connection code received from {addr}
+10/25/2021 05:30:54 PM INFO:Connection code from {addr} verified
+10/25/2021 05:30:54 PM INFO:Randoom Secret Question Generated for {addr}
+10/25/2021 05:30:54 PM INFO:Secret Question Sent to {addr}
+10/25/2021 05:31:05 PM INFO:Secret Question Answer received from {addr}
+10/25/2021 05:31:05 PM INFO:Validating Secret Question Answer from {addr}
+10/25/2021 05:38:14 PM INFO:Server Online
+10/25/2021 05:38:14 PM INFO:Server listening for possible connections
+10/25/2021 05:38:18 PM INFO:Server connection established for {addr}
+10/25/2021 05:38:18 PM INFO:Request connection code from {addr}
+10/25/2021 05:38:30 PM INFO:Connection code received from {addr}
+10/25/2021 05:38:30 PM INFO:Verifying Connection code received from {addr}
+10/25/2021 05:38:30 PM INFO:Connection code from {addr} verified
+10/25/2021 05:38:30 PM INFO:Randoom Secret Question Generated for {addr}
+10/25/2021 05:38:30 PM INFO:Secret Question Sent to {addr}
+10/25/2021 05:38:42 PM INFO:Secret Question Answer received from {addr}
+10/25/2021 05:38:42 PM INFO:Validating Secret Question Answer from {addr}
+10/25/2021 05:39:17 PM INFO:Server Online
+10/25/2021 05:39:17 PM INFO:Server listening for possible connections
+10/25/2021 05:39:24 PM INFO:Server connection established for {addr}
+10/25/2021 05:39:24 PM INFO:Request connection code from {addr}
+10/25/2021 05:39:39 PM INFO:Connection code received from {addr}
+10/25/2021 05:39:39 PM INFO:Verifying Connection code received from {addr}
+10/25/2021 05:39:39 PM INFO:Connection code from {addr} verified
+10/25/2021 05:39:39 PM INFO:Randoom Secret Question Generated for {addr}
+10/25/2021 05:39:39 PM INFO:Secret Question Sent to {addr}
+10/25/2021 05:39:52 PM INFO:Secret Question Answer received from {addr}
+10/25/2021 05:39:52 PM INFO:Validating Secret Question Answer from {addr}
+10/25/2021 05:47:00 PM INFO:Server Online
+10/25/2021 05:47:00 PM INFO:Server listening for possible connections
+10/25/2021 05:47:04 PM INFO:Server connection established for {addr}
+10/25/2021 05:47:04 PM INFO:Request connection code from {addr}
+10/25/2021 05:47:13 PM INFO:Connection code received from {addr}
+10/25/2021 05:47:13 PM INFO:Verifying Connection code received from {addr}
+10/25/2021 05:47:13 PM INFO:Connection code from {addr} verified
+10/25/2021 05:47:13 PM INFO:Randoom Secret Question Generated for {addr}
+10/25/2021 05:47:13 PM INFO:Secret Question Sent to {addr}
+10/25/2021 05:47:26 PM INFO:Secret Question Answer received from {addr}
+10/25/2021 05:47:26 PM INFO:Validating Secret Question Answer from {addr}
+10/25/2021 05:55:03 PM INFO:Server Online
+10/25/2021 05:55:03 PM INFO:Server listening for possible connections
+10/25/2021 05:55:07 PM INFO:Server connection established for {addr}
+10/25/2021 05:55:07 PM INFO:Request connection code from {addr}
+10/25/2021 05:57:04 PM INFO:Connection code received from {addr}
+10/25/2021 05:57:04 PM INFO:Verifying Connection code received from {addr}
+10/25/2021 05:57:04 PM INFO:Connection code from {addr} verified
+10/25/2021 05:57:04 PM INFO:Randoom Secret Question Generated for {addr}
+10/25/2021 05:57:04 PM INFO:Secret Question Sent to {addr}
+10/25/2021 05:57:16 PM INFO:Secret Question Answer received from {addr}
+10/25/2021 05:57:16 PM INFO:Validating Secret Question Answer from {addr}
+10/25/2021 06:03:26 PM INFO:Server Online
+10/25/2021 06:03:26 PM INFO:Server listening for possible connections
+10/25/2021 06:03:29 PM INFO:Server connection established for {addr}
+10/25/2021 06:03:29 PM INFO:Request connection code from {addr}
+10/25/2021 06:03:39 PM INFO:Connection code received from {addr}
+10/25/2021 06:03:39 PM INFO:Verifying Connection code received from {addr}
+10/25/2021 06:03:39 PM INFO:Connection code from {addr} verified
+10/25/2021 06:03:39 PM INFO:Randoom Secret Question Generated for {addr}
+10/25/2021 06:03:39 PM INFO:Secret Question Sent to {addr}
+10/25/2021 06:03:51 PM INFO:Secret Question Answer received from {addr}
+10/25/2021 06:03:51 PM INFO:Validating Secret Question Answer from {addr}
+10/25/2021 06:04:46 PM INFO:Server Online
+10/25/2021 06:04:46 PM INFO:Server listening for possible connections
+10/25/2021 06:04:49 PM INFO:Server connection established for {addr}
+10/25/2021 06:04:49 PM INFO:Request connection code from {addr}
+10/25/2021 06:05:05 PM INFO:Connection code received from {addr}
+10/25/2021 06:05:05 PM INFO:Verifying Connection code received from {addr}
+10/25/2021 06:05:05 PM INFO:Connection code from {addr} verified
+10/25/2021 06:05:05 PM INFO:Randoom Secret Question Generated for {addr}
+10/25/2021 06:05:05 PM INFO:Secret Question Sent to {addr}
+10/25/2021 06:05:16 PM INFO:Secret Question Answer received from {addr}
+10/25/2021 06:05:16 PM INFO:Validating Secret Question Answer from {addr}
+10/25/2021 06:05:56 PM INFO:Server Online
+10/25/2021 06:05:56 PM INFO:Server listening for possible connections
+10/25/2021 06:06:04 PM INFO:Server connection established for {addr}
+10/25/2021 06:06:04 PM INFO:Request connection code from {addr}
+10/25/2021 06:06:18 PM INFO:Connection code received from {addr}
+10/25/2021 06:06:18 PM INFO:Verifying Connection code received from {addr}
+10/25/2021 06:06:18 PM INFO:Connection code from {addr} verified
+10/25/2021 06:06:18 PM INFO:Randoom Secret Question Generated for {addr}
+10/25/2021 06:06:18 PM INFO:Secret Question Sent to {addr}
+10/25/2021 06:06:29 PM INFO:Secret Question Answer received from {addr}
+10/25/2021 06:06:29 PM INFO:Validating Secret Question Answer from {addr}
+10/25/2021 06:06:29 PM INFO:{agent} Successfully Verified
+10/25/2021 06:06:29 PM INFO:Server Offline
+10/25/2021 06:07:24 PM INFO:Server Online
+10/25/2021 06:07:24 PM INFO:Server listening for possible connections
+10/25/2021 06:07:35 PM INFO:Server connection established for {addr}
+10/25/2021 06:07:35 PM INFO:Request connection code from {addr}
+10/25/2021 06:07:45 PM INFO:Connection code received from {addr}
+10/25/2021 06:07:45 PM INFO:Verifying Connection code received from {addr}
+10/25/2021 06:07:45 PM INFO:Connection code from {addr} verified
+10/25/2021 06:07:45 PM INFO:Randoom Secret Question Generated for {addr}
+10/25/2021 06:07:45 PM INFO:Secret Question Sent to {addr}
+10/25/2021 06:07:58 PM INFO:Secret Question Answer received from {addr}
+10/25/2021 06:07:58 PM INFO:Validating Secret Question Answer from {addr}
+10/25/2021 06:07:58 PM INFO:{agent} Successfully Verified
+10/25/2021 06:07:58 PM INFO:Server Offline
+10/25/2021 06:08:38 PM INFO:Server connection established for {addr}
+10/25/2021 06:08:38 PM INFO:Request connection code from {addr}
+10/25/2021 06:09:06 PM INFO:Connection code received from {addr}
+10/25/2021 06:09:06 PM INFO:Verifying Connection code received from {addr}
+10/25/2021 06:09:06 PM INFO:Connection code from {addr} verified
+10/25/2021 06:09:06 PM INFO:Randoom Secret Question Generated for {addr}
+10/25/2021 06:09:06 PM INFO:Secret Question Sent to {addr}
+10/25/2021 06:09:20 PM INFO:Secret Question Answer received from {addr}
+10/25/2021 06:09:20 PM INFO:Validating Secret Question Answer from {addr}
+10/25/2021 06:09:20 PM INFO:{agent} Successfully Verified
+10/25/2021 06:09:20 PM INFO:Server Offline
+10/25/2021 06:09:41 PM INFO:Server connection established for {addr}
+10/25/2021 06:09:41 PM INFO:Request connection code from {addr}
+10/25/2021 06:10:17 PM INFO:Connection code received from {addr}
+10/25/2021 06:10:17 PM INFO:Verifying Connection code received from {addr}
+10/25/2021 06:10:17 PM INFO:Connection code from {addr} verified
+10/25/2021 06:10:17 PM INFO:Randoom Secret Question Generated for {addr}
+10/25/2021 06:10:17 PM INFO:Secret Question Sent to {addr}
+10/25/2021 06:10:30 PM INFO:Secret Question Answer received from {addr}
+10/25/2021 06:10:30 PM INFO:Validating Secret Question Answer from {addr}
+10/25/2021 06:10:30 PM WARNING:Unauthorized Answer from {addr}
+10/25/2021 06:10:30 PM INFO:Connection TERMINATED.
+10/25/2021 06:10:30 PM INFO:Server Offline
+10/25/2021 06:12:02 PM INFO:Server connection established for {addr}
+10/25/2021 06:12:02 PM INFO:Request connection code from {addr}
+10/25/2021 06:12:16 PM INFO:Connection code received from {addr}
+10/25/2021 06:12:16 PM INFO:Verifying Connection code received from {addr}
+10/25/2021 06:12:16 PM INFO:Connection code from {addr} verified
+10/25/2021 06:12:16 PM INFO:Randoom Secret Question Generated for {addr}
+10/25/2021 06:12:16 PM INFO:Secret Question Sent to {addr}
+10/25/2021 06:12:40 PM INFO:Secret Question Answer received from {addr}
+10/25/2021 06:12:40 PM INFO:Validating Secret Question Answer from {addr}
+10/25/2021 06:12:40 PM INFO:{agent} Successfully Verified
+10/25/2021 06:12:40 PM INFO:Server Offline
+10/25/2021 06:13:01 PM INFO:Server connection established for {addr}
+10/25/2021 06:13:01 PM INFO:Request connection code from {addr}
+10/25/2021 06:13:34 PM INFO:Connection code received from {addr}
+10/25/2021 06:13:34 PM INFO:Verifying Connection code received from {addr}
+10/25/2021 06:13:34 PM INFO:Connection code from {addr} verified
+10/25/2021 06:13:34 PM INFO:Randoom Secret Question Generated for {addr}
+10/25/2021 06:13:34 PM INFO:Secret Question Sent to {addr}
+10/25/2021 06:14:17 PM INFO:Secret Question Answer received from {addr}
+10/25/2021 06:14:17 PM INFO:Validating Secret Question Answer from {addr}
+10/25/2021 06:14:17 PM WARNING:Unauthorized Answer from {addr}
+10/25/2021 06:14:17 PM INFO:Connection TERMINATED.
+10/25/2021 06:14:17 PM INFO:Server Offline
+10/25/2021 06:14:50 PM INFO:Server connection established for {addr}
+10/25/2021 06:14:50 PM INFO:Request connection code from {addr}
+10/25/2021 06:15:07 PM INFO:Connection code received from {addr}
+10/25/2021 06:15:07 PM INFO:Verifying Connection code received from {addr}
+10/25/2021 06:15:07 PM WARNING:Unauthorized Connection Code from {addr}
+10/25/2021 06:15:07 PM INFO:Connection TERMINATED.
+10/25/2021 06:15:07 PM INFO:Server Offline
+10/25/2021 06:16:09 PM INFO:Server connection established for {addr}
+10/25/2021 06:16:09 PM INFO:Request connection code from {addr}
+10/25/2021 06:16:34 PM INFO:Server Online
+10/25/2021 06:16:34 PM INFO:Server listening for possible connections
+10/25/2021 06:16:38 PM INFO:Server connection established for {addr}
+10/25/2021 06:16:38 PM INFO:Request connection code from {addr}
+10/25/2021 06:16:45 PM INFO:Connection code received from {addr}
+10/25/2021 06:16:45 PM INFO:Verifying Connection code received from {addr}
+10/25/2021 06:16:45 PM WARNING:Unauthorized Connection Code from {addr}
+10/25/2021 06:16:45 PM INFO:Connection TERMINATED.
+10/25/2021 06:16:45 PM INFO:Server Offline
